@@ -1,5 +1,5 @@
 
-# Transcritor de vídeos do Youtube
+# Transcrição de vídeos do Youtube
 
 ## 📒 Descrição
 Neste projeto vamos aprender como empregar as inteligências artificiais generatias para transcrever vídeos do Youtube.
