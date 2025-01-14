@@ -1,11 +1,12 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Transcritor de vídeos do Youtube
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto vamos aprender como empregar as inteligências artificiais generatias para transcrever vídeos do Youtube.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs Generativas e outras ferramentas usadas: 
+* OpenAIs Whisper 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
