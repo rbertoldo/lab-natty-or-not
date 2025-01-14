@@ -1,4 +1,4 @@
-# Transcreve o áudio de um vídeo do youtube em texto no idioma detectado.
+# Transcreve o áudio de um vídeo do youtube em texto no idioma falado.
 
 # importando os módulos necessários
 import os
