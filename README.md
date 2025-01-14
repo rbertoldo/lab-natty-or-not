@@ -11,8 +11,5 @@ IAs Generativas e outras ferramentas usadas:
 ## 🧐 Processo de Criação
 Inicialmente o script deve perguntar para o usuário a URL do vídeo do youtube a ser transcrito, após realiza o download do audio do vídeo indicado, o transforma em texto e exibe ao usuário.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ao desenvolver esta atividade foi possível perceber a facilidade de utlizar as inteligências artificiais generatias para implementar ferrametas muito úteis como a transcrição de discursos em texto.
