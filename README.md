@@ -9,7 +9,7 @@ IAs Generativas e outras ferramentas usadas:
 * OpenAIs Whisper 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente o script deve perguntar para o usuário a URL do vídeo do youtube a ser transcrito, após realiza o download do audio do vídeo indicado, o transforma em texto e exibe ao usuário.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
